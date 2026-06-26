@@ -1,0 +1,23 @@
+{
+  "name": "thought-fish",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.122.0",
+    "@react-three/fiber": "^8.17.10",
+    "@shadergradient/react": "^2.0.9",
+    "gsap": "^3.15.0",
+    "motion": "^12.42.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "three": "^0.185.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^8.1.0"
+  }
+}
