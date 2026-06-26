@@ -317,6 +317,7 @@ export default function App() {
     backdropFilter: 'blur(12px)',
     borderRadius: 10,
     padding: '6px 12px',
+    userSelect: 'none'
   }}>
     {thoughts.length} swimming
   </div>
