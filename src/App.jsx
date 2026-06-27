@@ -275,7 +275,7 @@ export default function App() {
       onChange={e => setInput(e.target.value)}
       onKeyDown={e => e.key === 'Enter' && addThought()}
       placeholder=""
-      maxLength={350}
+      maxLength={500}
       style={{
         width: '100%', height: 42, fontSize: 14, borderRadius: 8,
         border: 'none', padding: '0 14px', outline: 'none',
